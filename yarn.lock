@@ -5928,10 +5928,10 @@ prettier@1.13.7:
   resolved "https://registry.yarnpkg.com/prettier/-/prettier-1.13.7.tgz#850f3b8af784a49a6ea2d2eaa7ed1428a34b7281"
   integrity sha512-KIU72UmYPGk4MujZGYMFwinB7lOf2LsDNGSOC8ufevsrPLISrZbNJlWstRi3m0AMuszbH+EFSQ/r6w56RSPK6w==
 
-prettier@^1.14.2:
-  version "1.14.3"
-  resolved "https://registry.yarnpkg.com/prettier/-/prettier-1.14.3.tgz#90238dd4c0684b7edce5f83b0fb7328e48bd0895"
-  integrity sha512-qZDVnCrnpsRJJq5nSsiHCE3BYMED2OtsI+cmzIzF1QIfqm5ALf8tEJcO27zV1gKNKRPdhjO0dNWnrzssDQ1tFg==
+prettier@^2.3.1:
+  version "2.3.1"
+  resolved "https://registry.yarnpkg.com/prettier/-/prettier-2.3.1.tgz#76903c3f8c4449bc9ac597acefa24dc5ad4cbea6"
+  integrity sha512-p+vNbgpLjif/+D+DwAZAbndtRrR0md0MwfmOVN9N+2RgyACMT+7tfaRnT+WDPkqnuVwleyuBIG2XBxKDme3hPA==
 
 pretty-error@^2.0.2:
   version "2.1.1"
