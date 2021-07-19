@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "axios": "^0.18.0",
-    "eslint-config-es": "^0.9.1",
+    "eslint-config-es": "^3.30.3",
     "eslint-plugin-babel": "^5.2.1",
     "qs": "^6.5.2",
     "vue": "^2.5.17",
